@@ -14,7 +14,7 @@ Use Case
 But...
 ======
 
-1. There's already <xyz> to do that!
+1. There's already 'xyz' to do that!
    - Nice, I didn't know. I only did a cursory search.
    I needed a tool and it seemed quicker to write one than to search any longer.
    Turned out ok, so others might like it as well :)
